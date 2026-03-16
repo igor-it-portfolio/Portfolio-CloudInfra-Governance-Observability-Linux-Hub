@@ -11,19 +11,14 @@ Each folder contains links to independent repositories with full implementation 
 
 ## 📂 Project Areas
 
-👉 **☁️ Cloud Infrastructure (AWS)**  
-📁 [cloud-aws](./cloud-aws)
+👉 **☁️ Cloud Infrastructure (AWS)** 📁 [cloud-aws](./cloud-aws)
 
-👉 **📊 Data Governance**  
-📁 [data-governance](./data-governance)
+👉 **📊 Data Governance** 📁 [data-governance](./data-governance)
 
-👉 **Observability**
-📁 https://github.com/igor-it-portfolio/Portfolio-CloudInfra-Governance-Observability-Linux-Hub/tree/main/observability
+👉 **📊 Observability** 📁 [observability](./observability)
 
-👉 **🐧 Linux & System Administration**  
-📁 [system-linux](./system-linux)
+👉 **🐧 Linux & System Administration** 📁 [system-linux](./system-linux)
 
----
 
 ## 📂 Projects Structure
 
