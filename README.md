@@ -14,12 +14,14 @@ Each folder contains links to independent repositories with full implementation 
 👉 **☁️ Cloud Infrastructure (AWS)**  
 📁 [cloud-aws](./cloud-aws)
 
-👉 **🐧 Linux & System Administration**  
-📁 [system-linux](./system-linux)
-
-👉 **📊 Data & Information Governance**  
+👉 **📊 Data Governance**  
 📁 [data-governance](./data-governance)
 
+👉 **Observability**
+📁
+
+👉 **🐧 Linux & System Administration**  
+📁 [system-linux](./system-linux)
 
 ---
 
